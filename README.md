@@ -1,6 +1,8 @@
 # Santript(Sanskrit Word - To completely satisfy)
 A tiffin/food aggregation service to satisfy the hunger of people who are actually in the need of it.
 
+![Splash Screen](https://github.com/zeroday-in/Santript/blob/master/UI/iPhone%2011%20Pro%20Max%20-%201.png)
+
 ## Aim
 #### Main Goal
 - To develop a tiffin/food aggregation service to satisfy people's need during this tough times🙌🏻.
@@ -19,9 +21,15 @@ A tiffin/food aggregation service to satisfy the hunger of people who are actual
 
 ### Screenshots / Proposed Design
 1. Splash Screen
+
 ![Splash Screen](https://github.com/zeroday-in/Santript/blob/master/UI/iPhone%2011%20Pro%20Max%20-%201.png)
+
 2. Login Screen
+
 ![Login Screen](https://github.com/zeroday-in/Santript/blob/master/UI/iPhone%2011%20Pro%20Max%20-%202.png)
+
 3. Sign Up Screen
+
 ![Sign up Screen](https://github.com/zeroday-in/Santript/blob/master/UI/iPhone%2011%20Pro%20Max%20-%203.png)
+
 > More screen designs will be shared soon
